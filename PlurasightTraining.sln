@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlurasightTraining", "PlurasightTraining\PlurasightTraining.csproj", "{B33AB8CA-E0A8-4087-8125-5DCD387AC63B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBinding", "DataBinding\DataBinding.csproj", "{4A4D12ED-6CE6-4CB8-9F76-A0D46C061BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingTwoWay", "DataBindingTwoWay\DataBindingTwoWay.csproj", "{60ADF99F-55E1-4216-B226-B0B0A3792D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B33AB8CA-E0A8-4087-8125-5DCD387AC63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33AB8CA-E0A8-4087-8125-5DCD387AC63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33AB8CA-E0A8-4087-8125-5DCD387AC63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4D12ED-6CE6-4CB8-9F76-A0D46C061BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4D12ED-6CE6-4CB8-9F76-A0D46C061BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4D12ED-6CE6-4CB8-9F76-A0D46C061BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4D12ED-6CE6-4CB8-9F76-A0D46C061BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60ADF99F-55E1-4216-B226-B0B0A3792D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ADF99F-55E1-4216-B226-B0B0A3792D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ADF99F-55E1-4216-B226-B0B0A3792D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ADF99F-55E1-4216-B226-B0B0A3792D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
