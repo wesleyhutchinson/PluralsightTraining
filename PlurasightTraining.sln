@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementBinding", "ElementBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCoverterDemo", "DataCoverterDemo\DataCoverterDemo.csproj", "{4C74CEE4-3E35-4B48-9539-A82276E4DDDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDemo", "AsynchronousDemo\AsynchronousDemo.csproj", "{ABC819BF-2F15-45BE-ADD5-310EDF3CABF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4C74CEE4-3E35-4B48-9539-A82276E4DDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C74CEE4-3E35-4B48-9539-A82276E4DDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C74CEE4-3E35-4B48-9539-A82276E4DDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC819BF-2F15-45BE-ADD5-310EDF3CABF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC819BF-2F15-45BE-ADD5-310EDF3CABF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC819BF-2F15-45BE-ADD5-310EDF3CABF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC819BF-2F15-45BE-ADD5-310EDF3CABF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
